@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+a {
+  display: inline-block;
+  margin-top: 10px;
+  list-style: none;
+  text-decoration: none;
+  border: 1px solid black;
+  padding: 4px 16px;
+  background-color: skyblue;
+  color: black;
+}
